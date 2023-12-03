@@ -1,0 +1,6 @@
+.ant-menu-item {
+  height: 60px !important;
+}
+.ant-menu-item-icon > * {
+  line-height: normal !important;
+}

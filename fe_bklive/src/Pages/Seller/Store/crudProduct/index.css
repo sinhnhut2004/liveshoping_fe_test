@@ -1,0 +1,15 @@
+.create-product-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.create-product {
+    background-color: white;
+}
+
+.handle-button {
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
